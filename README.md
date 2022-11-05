@@ -1,5 +1,5 @@
 # About Project
-- KTB Exam Implement API with golang 
+- Implement API with golang with Echo
 
 # Requirements
 - [x] go version 1.18
